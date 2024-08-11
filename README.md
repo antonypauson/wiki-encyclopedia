@@ -2,6 +2,10 @@
 
 Welcome to the Wiki Encyclopedia project! This is a Django-based web application that functions as a simplified encyclopedia. Users can view, create, edit, and search for encyclopedia entries, which are stored in Markdown format and converted to HTML for display.
 
+
+https://github.com/user-attachments/assets/7d39f665-ebce-4701-956d-0a16fa2b8218
+
+
 ## Features
 
 - **Entry Page**: View encyclopedia entries with Markdown content rendered to HTML.
@@ -10,6 +14,10 @@ Welcome to the Wiki Encyclopedia project! This is a Django-based web application
 - **Create New Page**: Add new entries with a title and Markdown content.
 - **Edit Page**: Modify existing entries with updated Markdown content.
 - **Random Page**: Navigate to a random entry in the encyclopedia.
+
+## YouTube Demo
+
+[![Watch the video](https://img.youtube.com/vi/fq67AaE4yk8/0.jpg)](https://youtu.be/fq67AaE4yk8)
 
 ## Installation
 
